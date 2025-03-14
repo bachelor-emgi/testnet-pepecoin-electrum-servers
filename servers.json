@@ -1,11 +1,11 @@
 {
   "wss": [
-    "wss://electrum.pepelum.site:50009"
+    "wss://testnet.pepelum.site:50009"
   ],
   "ssl": [
-    "ssl://electrum.pepelum.site:50008"
+    "ssl://testnet.pepelum.site:50008"
   ],
   "tcp": [
-    "tcp://electrum.pepelum.site:50007"
+    "tcp://testnet.pepelum.site:50007"
   ]
 }
