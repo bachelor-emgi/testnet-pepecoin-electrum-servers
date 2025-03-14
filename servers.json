@@ -1,0 +1,11 @@
+{
+  "wss": [
+    "wss://electrum.pepelum.site:50009"
+  ],
+  "ssl": [
+    "ssl://electrum.pepelum.site:50008"
+  ],
+  "tcp": [
+    "tcp://electrum.pepelum.site:50007"
+  ]
+}
